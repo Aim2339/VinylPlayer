@@ -17,8 +17,11 @@ A clean, animated vinyl record music player for Rainmeter. Features smooth physi
 ## Requirements
 
 1.  **Rainmeter:** Version 4.5 or newer.
-2.  **WebNowPlaying Plugin:** Required for Spotify, YouTube, SoundCloud, etc.
-    * You must install the **WebNowPlaying Companion** for your browser:
+2.  **WebNowPlaying Plugin:** Required for music integration.
+    * **Supported Services:** Works with Spotify, YouTube, SoundCloud, and many others.
+        * [View Supported Websites](https://wnp.keifufu.dev/supported-sites)
+        * [View Supported Desktop Players](https://wnp.keifufu.dev/desktop-players)
+    * **Browser Extension:** You must install the **WebNowPlaying Companion** for your browser:
         * [Chrome / Edge / Brave Extension](https://chromewebstore.google.com/detail/webnowplaying/jfakgfcdgpghbbefmdfjkbdlibjgnbli)
         * [Firefox Extension](https://addons.mozilla.org/en-US/firefox/addon/webnowplaying/)
     * *Note: If using desktop Spotify, [Spicetify](https://spicetify.app/) with the WebNowPlaying app is recommended for best performance.*

@@ -2,7 +2,11 @@
 
 A clean, animated vinyl record music player for Rainmeter. Features smooth physics-based rotation, a fully customizable UI, and seamless integration with web-based and desktop music players.
 
-![Preview](https://github.com/user-attachments/assets/b2d4199a-1bc6-410a-a902-40a0ea12082c)
+
+
+https://github.com/user-attachments/assets/03e884ee-b7d6-4943-9fea-c164f9de8b54
+
+
 
 ## Features
 
